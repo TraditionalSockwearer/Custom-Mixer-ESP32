@@ -27,3 +27,10 @@ Here is the complete list of hardware required to build this board.
 * **Headers:** 2.54mm Female Header Strips (for mounting ESP32/Screens).
 * **Knobs:** 5x Fader Caps (4mm lever), 2x Encoder Knobs (6mm D-Shaft).
 * **Screws:** M2x5mm (for faders), M3x6mm (for PCB mounting).
+
+## Schematic
+<img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/d8d58f90-379f-4695-a951-81fea455f848" />
+
+## PCB
+<img width="2339" height="1654" alt="Custom-Mixer-ESP32__Assembly-1" src="https://github.com/user-attachments/assets/cc64a71c-3bb0-4349-bf00-242401e0ffca" /><img width="2339" height="1654" alt="Custom-Mixer-ESP32__Assembly-2" src="https://github.com/user-attachments/assets/726a9f43-62b5-4cb1-9f49-b8da65bff743" />
+
