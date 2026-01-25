@@ -3,5 +3,5 @@
   (lib (name "KiCad-SSD1306-0.91-OLED-4pin-128x32")(type "KiCad")(uri "${KIPRJMOD}/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty")(options "")(descr ""))
   (lib (name "Slider")(type "KiCad")(uri "${KIPRJMOD}/Slider")(options "")(descr ""))
   (lib (name "TCA9548A Breakout")(type "KiCad")(uri "${KIPRJMOD}/TCA9548A Breakout")(options "")(descr ""))
-  (lib (name "Custom-Mixer-ESP32")(type "KiCad")(uri "C:/Users/arjun/Documents/GitHub/Custom-Mixer-ESP32/Custom-Mixer-ESP32")(options "")(descr ""))
+  (lib (name "Custom-Mixer-ESP32")(type "KiCad")(uri "${KIPRJMOD}/Custom-Mixer-ESP32")(options "")(descr ""))
 )
