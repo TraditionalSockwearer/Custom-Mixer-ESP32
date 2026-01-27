@@ -10,13 +10,16 @@ The Rotary Encoders will be used as a selecter to scroll through the apps that a
 <img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/8e63d87b-bb34-4a7e-8cb1-daa19f77bfc7" />
 
 ## PCB
-<img width="2339" height="1654" alt="Custom-Mixer-ESP32__Assembly-1" src="https://github.com/user-attachments/assets/4220ee8c-4c0b-4d28-b14d-0e455bd935e9" />
-<img width="2339" height="1654" alt="Custom-Mixer-ESP32__Assembly-2" src="https://github.com/user-attachments/assets/520d193d-56cb-4b02-b0af-01bc3dbfce2b" />
+<img width="2339" height="1654" alt="Custom-Mixer-ESP32__Assembly-2" src="https://github.com/user-attachments/assets/c7fb8ef5-2a20-432a-8b57-7e638c903e34" />
+<img width="2339" height="1654" alt="Custom-Mixer-ESP32__Assembly-1" src="https://github.com/user-attachments/assets/863af401-8091-4f20-94fa-95c099853398" />
+
 
 ## CAD
 
-<img width="1009" height="692" alt="image" src="https://github.com/user-attachments/assets/92b0a3ab-a96d-406b-9078-12e40f6231f7" />
-<img width="1066" height="631" alt="image" src="https://github.com/user-attachments/assets/0cc36be9-2635-4fe2-82b4-069f2975f3ff" />
+<img width="933" height="673" alt="image" src="https://github.com/user-attachments/assets/9b5bbf24-a97c-4869-9bb0-e8a22925a90a" />
+
+<img width="1332" height="699" alt="image" src="https://github.com/user-attachments/assets/dbe583d6-05be-4020-9771-ea5ec2be287e" />
+
 
 ## BOM
 
@@ -41,7 +44,7 @@ The complete list of hardware required to build this board.
 | :--- | :--- | :--- |
 | **Female Headers** | 3 (80) | [https://www.digikey.co.uk/en/products/detail/sullins-connector-solutions/PRPC040SAAN-RC/2775214](https://www.digikey.co.uk/en/products/detail/sullins-connector-solutions/PRPC040SAAN-RC/2775214) |
 | **Rotary Knobs** (Used to get rid of shipping) | 2 | [https://www.digikey.co.uk/en/products/detail/kilo-international/OEJL-90-4-5/710678](https://www.digikey.co.uk/en/products/detail/kilo-international/OEJL-90-4-5/710678) |
-
+| **Paper Clip** | 2
 
 Libraries used:[
 https://github.com/gorbachev/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty/tree/master](https://github.com/gorbachev/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty/tree/master)
