@@ -487,10 +487,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "C:/Users/arjun/Pictures/gerber files/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Custom-Mixer-ESP32.step",
       "svg": "",
       "vrml": ""
     },

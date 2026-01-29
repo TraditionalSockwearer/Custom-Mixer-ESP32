@@ -3,11 +3,11 @@
   (attr board_only exclude_from_pos_files exclude_from_bom)
   (fp_text reference "G***" (at 0 0) (layer "F.SilkS")
       (effects (font (size 1.5 1.5) (thickness 0.3)))
-    (uuid b4f64957-56b1-4909-af6e-ed3d2defb6e2)
+    (uuid a27b5eff-7812-47a2-a520-c0e1785de75f)
   )
   (fp_text value "LOGO" (at 0.75 0) (layer "F.SilkS") hide
       (effects (font (size 1.5 1.5) (thickness 0.3)))
-    (uuid 646fbb50-c246-4a93-ac9d-a947b96e64c6)
+    (uuid 7511d2f1-4ece-4951-b4d8-f47dcc801673)
   )
   (fp_poly
     (pts
@@ -952,7 +952,7 @@
       (xy -4.731775 -9.963281)
     )
 
-    (stroke (width 0.000000) (type solid)) (fill solid) (layer "F.Cu") (uuid 126cbd80-f38f-4c28-a226-29b3a3d2e911))
+    (stroke (width 0.000000) (type solid)) (fill solid) (layer "F.Mask") (uuid a18aa1c4-4fa0-45b7-819c-39e7dd6bae86))
   (fp_poly
     (pts
       (xy 0.192004 -5.791305)
@@ -972,7 +972,7 @@
       (xy 0.173162 -5.797326)
     )
 
-    (stroke (width 0.000000) (type solid)) (fill solid) (layer "F.Cu") (uuid 947efde0-0793-4a3e-8cb0-029105ec1173))
+    (stroke (width 0.000000) (type solid)) (fill solid) (layer "F.Mask") (uuid 8651caa0-5127-44bc-a755-50189fca0adc))
   (fp_poly
     (pts
       (xy 19.319153 -3.849869)
@@ -992,7 +992,7 @@
       (xy 19.134663 -3.9478)
     )
 
-    (stroke (width 0.000000) (type solid)) (fill solid) (layer "F.Cu") (uuid 5884a99e-87fd-4691-af00-9022e6266f41))
+    (stroke (width 0.000000) (type solid)) (fill solid) (layer "F.Mask") (uuid 632a21e3-e1fd-4cca-99fa-b5082f305e6a))
   (fp_poly
     (pts
       (xy 18.78629 -5.169863)
@@ -1010,5 +1010,5 @@
       (xy 18.604797 -5.205726)
     )
 
-    (stroke (width 0.000000) (type solid)) (fill solid) (layer "F.Cu") (uuid 2b951667-a3c4-4003-ba11-60d8c0b2ee4f))
+    (stroke (width 0.000000) (type solid)) (fill solid) (layer "F.Mask") (uuid ffcfde36-0c92-49db-944f-0f1513aa871c))
 )
