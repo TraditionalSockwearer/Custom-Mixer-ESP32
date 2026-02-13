@@ -3286,6 +3286,12 @@
 		(uuid "1d7ec40b-150c-496c-8346-16313a7fe5fb")
 	)
 	(junction
+		(at 257.81 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "30da6836-cb2f-4d59-bc72-a01c42d0d5b5")
+	)
+	(junction
 		(at 242.57 158.75)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3499,7 +3505,7 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 116.84) (xy 257.81 148.59)
+			(xy 257.81 116.84) (xy 257.81 127)
 		)
 		(stroke
 			(width 0)
@@ -3576,6 +3582,16 @@
 			(type default)
 		)
 		(uuid "be018e9f-a2b3-481f-b240-6df01c8adf93")
+	)
+	(wire
+		(pts
+			(xy 257.81 127) (xy 257.81 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf0f5d0b-e4cc-4318-833f-d2ad4f6e9008")
 	)
 	(wire
 		(pts
@@ -5374,6 +5390,28 @@
 		(uuid "f8df8f06-df5e-4e92-86b6-ea91c043cc15")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 200.1376 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GPIO 40"
+		(shape input)
+		(at 267.97 127 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "facd5d44-3665-43cf-bd75-1f2303176fe2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 278.8171 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10473,6 +10511,74 @@
 			(project ""
 				(path "/73629794-8790-492e-bf38-e26558ab2153"
 					(reference "#PWR050")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 262.89 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f589872e-f35a-45ea-ad2b-0d39e3fff601")
+		(property "Reference" "SW19"
+			(at 262.89 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 262.89 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+			(at 262.89 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 262.89 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 262.89 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c082720a-cf52-4a33-a84b-62128931f1b5")
+		)
+		(pin "1"
+			(uuid "27e15742-f9bc-45df-8753-3aee61a08b41")
+		)
+		(instances
+			(project "Custom-Mixer-ESP32"
+				(path "/73629794-8790-492e-bf38-e26558ab2153"
+					(reference "SW19")
 					(unit 1)
 				)
 			)
