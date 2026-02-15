@@ -4,4 +4,5 @@
   (lib (name "Slider")(type "KiCad")(uri "${KIPRJMOD}/Slider")(options "")(descr ""))
   (lib (name "TCA9548A Breakout")(type "KiCad")(uri "${KIPRJMOD}/TCA9548A Breakout")(options "")(descr ""))
   (lib (name "Custom-Mixer-Kicad")(type "KiCad")(uri "C:/Users/arjun/Documents/GitHub/Custom-Mixer-ESP32/Custom-Mixer-Kicad")(options "")(descr ""))
+  (lib (name "Oled Screen 128x64")(type "KiCad")(uri "${KIPRJMOD}/Oled Screen 128x64")(options "")(descr ""))
 )

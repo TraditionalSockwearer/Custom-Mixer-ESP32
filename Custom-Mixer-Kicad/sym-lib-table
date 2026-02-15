@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "RA2045F-20R-15LC-B10K-C")(type "KiCad")(uri "${KIPRJMOD}/Slider/RA2045F-20R-15LC-B10K-C.kicad_sym")(options "")(descr ""))
   (lib (name "2717")(type "KiCad")(uri "${KIPRJMOD}/TCA9548A Breakout/2717.kicad_sym")(options "")(descr ""))
+  (lib (name "DM-OLED096-636")(type "KiCad")(uri "${KIPRJMOD}/Oled Screen 128x64/DM-OLED096-636.kicad_sym")(options "")(descr ""))
+  (lib (name "Custom-Mixer-ESP32-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Custom-Mixer-ESP32-eagle-import.kicad_sym")(options "")(descr ""))
 )
