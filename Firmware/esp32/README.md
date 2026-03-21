@@ -45,9 +45,9 @@ CircuitPython firmware for the Custom Mixer running on an ESP32-S3 with a 2.2" T
 
 ## Installation
 
-1. Install CircuitPython on your ESP32-S3
-2. Copy `main.py` and `boot.py` to the CIRCUITPY drive
-3. Copy these libraries to `/lib`:
+1. Install [CircuitPython 9.x](https://circuitpython.org/board/espressif_esp32s3_devkitc_1_n8r8/) on your ESP32-S3
+2. Copy `main.py` and `boot.py` (both in this directory) to the **CIRCUITPY** drive
+3. Copy these libraries to `/lib` (from the [CircuitPython Bundle](https://circuitpython.org/libraries)):
    - `adafruit_ili9341.mpy`
    - `adafruit_display_text/`
    - `adafruit_bus_device/`
